@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP01_105590006</string>
+    <string name="Achievement">成績：</string>
+    <string name="textAchievement">請輸入整數成績</string>
+    <string name="Button">成績轉換</string>
+    <string name="txtR">等第：</string>
+    <string name="suggestion">等第：</string>
+</resources>
